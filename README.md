@@ -1,4 +1,4 @@
-Updated: 04.2025
+Updated: 04.2025  
 Script created by Salvador Camacho
 
 This script was created with best practices, so it is more resilient, such as:
@@ -14,6 +14,6 @@ The first transaction creates a new user, the second transaction finds pets by "
 
 Runtime Settings were set to log only on errors and generate snapshot on errors, think times 75% to 150%
 
-This script has 2 transactions
-PetStore-DevWeb-Swagger-REST-S01-01 Create User
+This script has 2 transactions:  
+PetStore-DevWeb-Swagger-REST-S01-01 Create User  
 PetStore-DevWeb-Swagger-REST-S01-02 Find Pet By Status
